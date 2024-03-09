@@ -51,4 +51,3 @@ To run the project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/NnekaAsuzu/house-price-prediction.git`
 2. Navigate to the project directory: `cd house-price-prediction`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the Streamlit app: `streamlit run app.py`
