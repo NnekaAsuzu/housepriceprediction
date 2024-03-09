@@ -44,7 +44,6 @@ Future improvements to the project could include:
 
 ## Contributor(s)
 - Nneka Asuzu
-- [Your GitHub Profile](https://github.com/NnekaAsuzu)
 
 ## Setup
 To run the project locally, follow these steps:
